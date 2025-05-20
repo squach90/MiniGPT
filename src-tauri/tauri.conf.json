@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "minigpt",
+  "productName": "MiniGPT",
   "version": "0.1.0",
   "identifier": "com.minigpt.app",
   "build": {
