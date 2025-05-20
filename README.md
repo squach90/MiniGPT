@@ -1,20 +1,20 @@
-# Nom de l'application
+# MiniGPT (Intel)
 
 <!-- Image de l'app -->
 ![Presentation image](src/assets/screenshot.png)
-## Description
+## Overview
 
-Une application macOS ultra légère qui permet d’utiliser ChatGPT comme un moteur de recherche discret et rapide.  
-Basée sur [Tauri](https://tauri.app), conçue pour consommer très peu de RAM et de CPU.
+A super lightweight macOS app that brings classic ChatGPT to your desktop — like a hidden search engine.  
+Built with [Tauri](https://tauri.app) for low RAM and CPU usage, especially on Intel Macs.
 
-## Fonctionnalités
+## Features
 
-- Interface minimaliste
-- Icône personnalisée
-- Chargement rapide de ChatGPT
-- Fonctionne sur macOS Intel
+- Minimal interface
+- Custom app icon
+- Fast loading ChatGPT window
+- Runs natively on macOS Intel
 
-## Installation
+## Install
 
 ```bash
 pnpm install
