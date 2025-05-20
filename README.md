@@ -1,7 +1,24 @@
-# Tauri + Vanilla
+# Nom de l'application
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+<!-- Image de l'app -->
+<p align="center">
+  <img src="assets/screenshot.png" alt="Aperçu de l'application" width="600">
+</p>
 
-## Recommended IDE Setup
+## Description
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Une application macOS ultra légère qui permet d’utiliser ChatGPT comme un moteur de recherche discret et rapide.  
+Basée sur [Tauri](https://tauri.app), conçue pour consommer très peu de RAM et de CPU.
+
+## Fonctionnalités
+
+- Interface minimaliste
+- Icône personnalisée
+- Chargement rapide de ChatGPT
+- Fonctionne sur macOS Intel
+
+## Installation
+
+```bash
+pnpm install
+pnpm tauri dev
