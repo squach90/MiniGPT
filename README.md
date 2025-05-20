@@ -13,6 +13,7 @@ Built with [Tauri](https://tauri.app) for low RAM and CPU usage, especially on I
 - Custom app icon
 - Fast loading ChatGPT window
 - Runs natively on macOS Intel
+- **All data is save locally**
 
 ## Install
 
