@@ -16,6 +16,8 @@ Built with [Tauri](https://tauri.app) for low RAM and CPU usage, especially on I
 
 ## Install
 
+Download the .DMG [here](https://github.com/squach90/MiniGPT/releases/tag/v1.0.0)
+
 ```bash
 pnpm install
 pnpm tauri dev
