@@ -1,10 +1,7 @@
 # Nom de l'application
 
 <!-- Image de l'app -->
-<p align="center">
-  <img src="assets/screenshot.png" alt="Aperçu de l'application" width="600">
-</p>
-
+![Presentation image](/assets/screenshot.png)
 ## Description
 
 Une application macOS ultra légère qui permet d’utiliser ChatGPT comme un moteur de recherche discret et rapide.  
